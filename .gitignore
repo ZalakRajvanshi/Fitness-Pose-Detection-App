@@ -1,0 +1,27 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# TensorFlow / Keras model files
+*.h5
+*.hdf5
+*.ckpt
+
+# Numpy arrays / large dataset files (optional if you want to ignore)
+*.npy
+
+# Logs, results
+results/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
