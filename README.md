@@ -1,4 +1,4 @@
-Absolutely! Here’s a **full, humanized, and structured README** for your project. You can copy-paste it directly into a `README.md` file in your repository.
+
 
 ---
 
@@ -165,5 +165,6 @@ python src/app.py
 ## 🔗 GitHub Repository
 
 [https://github.com/ZalakRajvanshi/Fitness-Pose-Detection-App](https://github.com/ZalakRajvanshi/Fitness-Pose-Detection-App)
+
 
 
