@@ -25,3 +25,18 @@ results/
 # OS files
 .DS_Store
 Thumbs.db
+
+.env
+.env.local
+.env.production
+.venv/
+node_modules/
+dist/
+build/
+.idea/
+.vscode/
+*.sqlite
+*.db
+credentials.json
+secrets.json
+serviceAccountKey.json
